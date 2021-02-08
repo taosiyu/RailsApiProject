@@ -23,7 +23,7 @@ gem 'jwt'
 gem 'kaminari'
 gem 'google-protobuf'
 
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.3'
 # gem 'cloudinary'
 gem 'nokogiri'
 gem 'mini_magick'
